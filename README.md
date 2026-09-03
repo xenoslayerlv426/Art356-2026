@@ -4,7 +4,7 @@ This is written in "Markdown". Markdown is an easy to read language for formatti
 
 You can use *Markdown* syntax, along with some additional HTML tags to format your writing on Github.
 
-This is a link-> [The Word](url)
+//This is a link-> [The Word](url)
 
  
 ## Images
@@ -13,4 +13,4 @@ This is a link-> [The Word](url)
 
 ### Journal Example
 
-Here is my journal [test](journal/8.20.2026.md)
+Here is my journal [test](journal/Chapter1.md)
