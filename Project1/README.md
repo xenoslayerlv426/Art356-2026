@@ -2,8 +2,10 @@
 
 [Randomizer](https://editor.p5js.org/xenoslayerlv426/full/2NYWiweEd)
 
+## Instrtuctions
+Click the X button to see which Xbox game you will play
+
 ## Wireframe and Moodboard
 ![Wireframe](Wireframe.png)   ![Moodboard](Moodboard.png) 
 
-## Instrtuctions
-Click the X button to see which Xbox game you will play
+
