@@ -2,7 +2,7 @@
 
 [Randomizer](https://editor.p5js.org/xenoslayerlv426/full/2NYWiweEd)
 
-## Instrtuctions
+## Instructions
 Click the X button to see which Xbox game you will play
 
 ## Wireframe and Moodboard
