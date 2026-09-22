@@ -3,6 +3,6 @@
 [Randomizer](https://editor.p5js.org/xenoslayerlv426/full/2NYWiweEd)
 
 ## Wireframe and Moodboard
-![Wireframe](Wireframe.png)
+![Wireframe](Wireframe.png)   ![Moodboard](Moodboard.png) 
 
 
