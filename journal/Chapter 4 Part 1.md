@@ -2,4 +2,7 @@
 
 ![image of key puzzle](https://static0.thegamerimages.com/wordpress/wp-content/uploads/2021/02/Elevator-Door-Diamond-Key.jpg?q=50&fit=crop&w=825&dpr=1.5)
 
-In chapter 4 part 1, Don Norman mainly focused on 
+In chapter 4 part 1, Don Norman mainly focused on the four constraints, being physical, cultural semantic and logical. Physical constraint works when it is easy to interpret, requiring you to do as little as possible when interacting with the product. Cultural is usually during social interactions based around where you live. Whether it be how you interact with others or how you perceive things differently based on where you are in the world. Semantic uses your understanding of the situation to put your plan into action. The example I like from the book is the windshield, there is only one possible place it could go, the front as it protects the drivers face. Last is logical, which relies on your analysis of the situation and in many cases the most simple. In the book this comes in the form of the last piece going into the last spot, or how the left switch turn on the left lights and the same going for the right side.
+
+A personal example I could draw from this chapter would come from the physical constraint. I work retail, so we have items that are locked up and require keys to open them. The issue however is sometimes you have no idea which key goes to which lock. Over time we started numbering them, so the unlocking process is easier, but sometimes even that fails and you have to rely on previous errors to figure out the correct key. I included the image above from Resident Evil as an example of a key and lock that does work. The key and lock both have a matching icon, so you know that they could only go together and nothing else. 
+
